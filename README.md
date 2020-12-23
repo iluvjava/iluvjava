@@ -10,3 +10,5 @@
 3. That is. Thanks for reading
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iluvjava&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iluvjava&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
