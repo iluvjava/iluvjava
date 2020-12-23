@@ -8,3 +8,5 @@
   * Leetcode, Hackerrank
   * Hardcore Computer Programming
 3. That is. Thanks for reading
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iluvjava&show_icons=true&theme=radical)
