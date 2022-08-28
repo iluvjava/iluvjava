@@ -15,6 +15,7 @@
 
 
 ### Flex
-1. I am studying applied math in university at a graduate level.
+1. I **was** studying applied math in university at a graduate level.
 2. I actually think coding (computer programming) is not enough of an intellectual challenge for me compare to mathematics.
+3. I am trying to get a PhD in mathematics, which might take a while and I would have spent a total of 10~12 years in university by the point I finished it. 
 
