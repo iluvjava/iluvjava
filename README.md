@@ -4,8 +4,8 @@
 2. If you are random people from the internet who found this github, I do: 
 	* Mathematics, specifically mathematical programming and optimizations algorithms. 
 	* Leetcode, Hackerrank
-	* Hardcore Computer Programming
-	* Julia, the pgoramming language
+	* Hardcore Computer Programming (by which I mean competitive programming and as an example: [The Max Flow Min Cut Algorithm](https://cp-algorithms.com/graph/edmonds_karp.html))
+	* [The programming language julia](https://julialang.org/)
 3. I will be looking for jobs at around 2027 with a BS in computational mathematics, a MS in applied Mathematics, and a PhD in pure mathematics. See the about me 2 section below for more. 
 
 ### FAQ
