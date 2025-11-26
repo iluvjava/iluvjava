@@ -1,12 +1,12 @@
 ### Hi, Human, Robots, Cyborgs, or General Artificial Intelligence
 
-1. If you are a recruiter, go visit my website, it's on the left side under my profile pic. (Unlikely but still possible)
-2. If you are random people from the internet who found this github, I do that following things: 
-  * Mathematics, specifically mathematical programming and optimizations algorithms. 
-  * Leetcode, Hackerrank
-  * Hardcore Computer Programming
-  * Julia, the pgoramming language
-3. That is. Thanks for reading
+1. My personal website is on the left side under my profile pic.
+2. If you are random people from the internet who found this github, I do: 
+	* Mathematics, specifically mathematical programming and optimizations algorithms. 
+	* Leetcode, Hackerrank
+	* Hardcore Computer Programming
+	* Julia, the pgoramming language
+3. I will be looking for jobs at around 2027 with a BS in computational mathematics, a MS in applied Mathematics, and a PhD in pure mathematics. See the about me 2 section below for more. 
 
 ### FAQ
 
