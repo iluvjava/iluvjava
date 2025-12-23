@@ -12,7 +12,7 @@
 
 Questions: 
 
-1. Where did your math repo went?
+1. Where did your math repo went? See the [published Obsidian Notebooke](https://publish.obsidian.md/alto/README). 
 2. Why are you privating all your big repos?
 3. So, will they come back?
 4. Are you still maintainaing your websites? 
@@ -24,7 +24,6 @@ Answers:
 3. They will come back after the papers are published somehere, I do this to not danger my PhD degree.
 4. No. I don't have the time to write LaTEX in HTML for the Katex interpretor and write Javascript and CSS. 
 
-**There may also be a Obsidian notebook in the future where I will host all the maths, like, more than 1200 markdown files.** But before that I need to standardize the some Markdown math formats. 
 
 ### About Me, like actually about me and not a flex. 
 1. I like psychedelic and ambience music. I like music in general too. 
