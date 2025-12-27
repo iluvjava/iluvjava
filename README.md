@@ -12,7 +12,7 @@
 
 Questions: 
 
-1. Where did your math repo went? See the [published Obsidian Notebooke](https://publish.obsidian.md/alto/README). 
+1. Where did your math repo went? The repos is in private because it contains my future publications in draft. For the more general knowledge part of the notebook which doesn't contain new contribution to the literature, see the [published Obsidian Notebook](https://publish.obsidian.md/alto/README). For the references used for conducting my research, visit my [Public Zotero Library](https://www.zotero.org/alto_legato/library). 
 2. Why are you privating all your big repos?
 3. So, will they come back?
 4. Are you still maintainaing your websites? 
