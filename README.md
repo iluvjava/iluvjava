@@ -22,8 +22,7 @@ The repos is now private because it contains my future publications in draft. Fo
 4. I have an 9 months intern with a startup where I learned the in and outs of rasters files, and the geospatial plugins for PostGres SQL Databases. 
 5. I am a 4th year PhD student in pure Mathmatics and please don't say to me you hate math in college or how math is useless, I heard that everyday from many people. And I don't recommend people to do a PhD in Math, unless they can do 10 hours of math every day and has a brain that is a bit excessive in cognitive function.
 
-So, I can't predict what you are thinking after reading those. I don't really care actually and Eh..., Have a cute pink unicorn pony! >w<
-
+So, I can't predict what you are thinking after reading those. I don't really care actually and Eh..., Have a cute pink unicorn pony I made! >w<
 
 ![](al.gif)
 
