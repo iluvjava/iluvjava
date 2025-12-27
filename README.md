@@ -10,19 +10,9 @@
 
 ### FAQ
 
-Questions: 
+#### About the Math repository.
 
-1. Where did your math repo went? The repos is in private because it contains my future publications in draft. For the more general knowledge part of the notebook which doesn't contain new contribution to the literature, see the [published Obsidian Notebook](https://publish.obsidian.md/alto/README). For the references used for conducting my research, visit my [Public Zotero Library](https://www.zotero.org/alto_legato/library). 
-2. Why are you privating all your big repos?
-3. So, will they come back?
-4. Are you still maintainaing your websites? 
-
-Answers: 
-
-1. I have to do that because my math notebooks start to containing somewhat novel and new results.
-2. Yes, the julia code is also relevant to some new results.
-3. They will come back after the papers are published somehere, I do this to not danger my PhD degree.
-4. No. I don't have the time to write LaTEX in HTML for the Katex interpretor and write Javascript and CSS. 
+The repos is now private because it contains my future publications in draft. For the more general knowledge part of the notebook which doesn't contain new contribution to the literature, see the [published Obsidian Notebook](https://publish.obsidian.md/alto/README). For the references used for conducting my research, visit my [Public Zotero Library](https://www.zotero.org/alto_legato/library).
 
 
 ### About Me, like actually about me and not a flex. 
