@@ -37,4 +37,4 @@ Topics in Mathematical Optimizations, covering Nonsmooth Analysis, Convex Analys
 
  ### What is your most recent qualification again? 
 
- I did [University of Washington applied mathematics program](https://amath.washington.edu/master-science-applied-mathematics) for my Master Degree, Professor [Anne Greenbaum](https://fr.wikipedia.org/wiki/Anne_Greenbaum) was my advisor. 
+ I did [University of Washington applied mathematics program](https://amath.washington.edu/master-science-applied-mathematics) for my Master Degree (2020-2022), Professor [Anne Greenbaum](https://fr.wikipedia.org/wiki/Anne_Greenbaum) was my advisor. See my thesis [here](https://digital.lib.washington.edu/researchworks/items/acba505e-7edb-4af7-a4d5-9bee67a9343a). 
