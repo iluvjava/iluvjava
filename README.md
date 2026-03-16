@@ -1,8 +1,8 @@
 ### Hi, Human, Robots, Cyborgs, or General Artificial Intelligence
 
-There is no picture of myself here. I was younger, git hub was not like Linkedin. 
-Therefore, there is no corporate vibe here, only internet subculture. 
-Let me introduce myself. 
+There is no photo of myself here. When I was younger, github was not like Linkedin. 
+**Therefore, there won't be corporate vibe here, only internet subculture.**
+Now. Let me introduce myself. 
 
 **The following is important if you are a recruter.** At around 2027, I will have a BS in computational mathematics, a MS in applied Mathematics, and a PhD in pure mathematics. See the about me 2 section below for more. Futhermore: 
 1. My personal website is on the left side under my profile pic.
