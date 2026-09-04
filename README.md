@@ -18,13 +18,6 @@ Further more:
 \[2026-03-15\]: Currently, there is no key, well documented project to show. 
 
 
-# FAQ
-
-## About the Math repository.
-
-The repos is now private because it contains my future publications in draft. 
-Part of the notebook are general knowledge and it doesn't contain new contribution to the literature.
-To see that part of the notebook, visit my [published Obsidian Notebook](https://publish.obsidian.md/alto/README). For all the references I use in my research, visit my [Public Zotero Library](https://www.zotero.org/alto_legato/library).
 
 # More About me 
 1. I like [psychedelic](https://www.youtube.com/watch?v=lIuEuJvKos4) and [ambient](https://www.youtube.com/watch?v=BMcx-ZfkJ04) music. 
@@ -36,6 +29,15 @@ To see that part of the notebook, visit my [published Obsidian Notebook](https:/
 4. My programming skills in general are definitively better than most juniors. I took many computer science classes when I was younger. **Unfortunately I would have listed the details about my programming skills if it were before 2026, but right now we are after 2026, this is what I will say: "Yes, I know vibe coding, and I code fast (300% speed up compared to when not using AI) with Anthropic Claude, I am integrating AI into my research workflows."**
 5. I have an 9 months intern with a startup where I learned the in and outs of rasters files, and the geospatial plugins for PostGres SQL Databases. 
 6. I am a 4th year PhD student in pure Mathematics. Please don't say to me you hate math in college or how math is useless, I heard that everyday from many people, and it's obviously true. Furthermore, I don't recommend people to do a PhD in Math, unless they can do 10 hours of math every day and has a brain that is a excessive in cognitive function.
+
+
+# FAQ
+
+## Where was the math reposition, the biggest one?
+
+The repos is now private because it contains my future publications in draft. 
+Part of the notebook are general knowledge and it doesn't contain new contribution to the literature.
+To see that part of the notebook, visit my [published Obsidian Notebook](https://publish.obsidian.md/alto/README). For all the references I use in my research, visit my [Public Zotero Library](https://www.zotero.org/alto_legato/library).
 
 ## What Mathematics do I learn? 
 
