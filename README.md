@@ -7,8 +7,9 @@ Let me provide a guide.
 
 **The following is important if you are a recruter.** At around 2027, I will have a PhD in pure mathematics, a MS in applied Mathematics, and a BS in computational mathematics. See the about me 2 section below for more. 
 Further more:
-1. My personal website linked [here](https://iluvjava.github.io/).
-2. If you are someone from the internet who found this Github, I do: 
+1. My legal name is: Hongda Li
+2. My personal website linked [here](https://iluvjava.github.io/).
+3. If you are someone from the internet who found this Github, I do: 
 	* Mathematics, specifically mathematical programming and optimizations algorithms. 
 	* Leetcode, Hackerrank.
 	* Hardcore Computer Programming (by which I mean competitive programming and as an example: [The Max Flow Min Cut Algorithm](https://cp-algorithms.com/graph/edmonds_karp.html))
