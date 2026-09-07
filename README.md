@@ -1,19 +1,15 @@
 # Hi, Human, Robots, Cyborgs, or General Artificial Intelligence
 
-There is no photo of myself here. When I was younger, Github was not like LinkedIn. 
-**Therefore, there won't be corporate vibe here, only internet subculture.** 
+There is no photo of myself here. 
+When I was younger, Github was not like LinkedIn. 
 This is my personal Github account. 
 Let me provide a guide.
 
 **The following is important if you are a recruter.** At around 2027, I will have a PhD in pure mathematics, a MS in applied Mathematics, and a BS in computational mathematics. See the about me 2 section below for more. 
 Further more:
-1. My legal name is: Hongda Li
+1. My legal name is: Hongda Li.
 2. My personal website linked [here](https://iluvjava.github.io/).
-3. If you are someone from the internet who found this Github, I do: 
-	* Mathematics, specifically mathematical programming and optimizations algorithms. 
-	* Leetcode, Hackerrank.
-	* Hardcore Computer Programming (by which I mean competitive programming and as an example: [The Max Flow Min Cut Algorithm](https://cp-algorithms.com/graph/edmonds_karp.html))
-	* [The programming language julia](https://julialang.org/). 
+3. My google scholar is linked [here](https://scholar.google.com/citations?user=81AA-_gAAAAJ&hl=en). Still in the process of looking for good venues to publish our results with my advisor.
 
 \[2026-03-15\]: Currently, there is no key, well documented project to show. 
 
