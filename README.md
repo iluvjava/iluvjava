@@ -10,6 +10,7 @@ Further more:
 1. My legal name is: Hongda Li.
 2. My personal website linked [here](https://iluvjava.github.io/).
 3. My google scholar is linked [here](https://scholar.google.com/citations?user=81AA-_gAAAAJ&hl=en). Still in the process of looking for good venues to publish our results with my advisor.
+4. My [hacker rank](https://www.hackerrank.com/profile/victor1301166040). 
 
 \[2026-03-15\]: Currently, there is no key, well documented project to show. 
 
