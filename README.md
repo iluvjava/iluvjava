@@ -1,49 +1,40 @@
 # Hi, Human, Robots, Cyborgs, or General Artificial Intelligence
+ 
+This is my personal GitHub account, so expect more personality here than on my resume or LinkedIn. There is no profile photo by design.
+ 
+**If you are a recruiter, start here.** I am a PhD candidate in pure mathematics at the University of British Columbia Okanagan, expected to graduate around 2027, with an MS in Applied Mathematics and a BS in Computational Mathematics. See "More About Me" below for the rest.
+ 
+1. My legal name is Hongda Li. I prefer to go by Alto on the internet and I use Alto for job applications to reduce potential name bias. 
+2. Personal website: [iluvjava.github.io](https://iluvjava.github.io/).
+3. Google Scholar: [profile](https://scholar.google.com/citations?user=81AA-_gAAAAJ&hl=en). Still working with my advisor toward good venues for our results.
+4. [HackerRank](https://www.hackerrank.com/profile/victor1301166040).
 
-There is no photo of myself here. 
-When I was younger, Github was not like LinkedIn. 
-This is my personal Github account. 
-Let me provide a guide.
+# More About Me
 
-**The following is important if you are a recruter.** At around 2027, I will have a PhD in pure mathematics, a MS in applied Mathematics, and a BS in computational mathematics. See the about me 2 section below for more. 
-Further more:
-1. My legal name is: Hongda Li.
-2. My personal website linked [here](https://iluvjava.github.io/).
-3. My google scholar is linked [here](https://scholar.google.com/citations?user=81AA-_gAAAAJ&hl=en). Still in the process of looking for good venues to publish our results with my advisor.
-4. My [hacker rank](https://www.hackerrank.com/profile/victor1301166040). 
-
-\[2026-03-15\]: Currently, there is no key, well documented project to show. 
-
-
-
-# More About me 
-1. I like [psychedelic](https://www.youtube.com/watch?v=lIuEuJvKos4) and [ambient](https://www.youtube.com/watch?v=BMcx-ZfkJ04) music. 
-2. My English is native fluency, 我说普通话，中文是我的母语, and mon français se trouve au mille lieu de CEFR niveau B1, ou B2, je suis entrain d'apprendre cette langue. 
-3. Have a cute pink unicorn pony I made! ![](al.gif)
-
-## Skills and Experiences
-3. I write Julia code that it's as fast as C++, FOTRAN, neglecting first compile time, and assume the same algorithm implementations across those languages. If you want to hire me, for postdoc, or a data intensive, operational research intensive position that Julia has an ecosystem (or at least a bit and for open source data format) for it. My skills and qualifications will make people shivers.
-4. My programming skills in general are definitively better than most juniors. I took many computer science classes when I was younger. **Unfortunately I would have listed the details about my programming skills if it were before 2026, but right now we are after 2026, this is what I will say: "Yes, I know vibe coding, and I code fast (300% speed up compared to when not using AI) with Anthropic Claude, I am integrating AI into my research workflows."**
-5. I have an 9 months intern with a startup where I learned the in and outs of rasters files, and the geospatial plugins for PostGres SQL Databases. 
-6. I am a 4th year PhD student in pure Mathematics. Please don't say to me you hate math in college or how math is useless, I heard that everyday from many people, and it's obviously true. Furthermore, I don't recommend people to do a PhD in Math, unless they can do 10 hours of math every day and has a brain that is a excessive in cognitive function.
-
-
+1. I like [psychedelic](https://www.youtube.com/watch?v=lIuEuJvKos4) and [ambient](https://www.youtube.com/watch?v=BMcx-ZfkJ04) music.
+2. My English has native fluency, 我说普通话，中文是我的母语, and mon français reste entre les niveaux B1, B2 du CECR ; je suis en train de l'apprendre.
+3. I made a small pink unicorn pony. ![](al.gif)
+## Skills and Experience
+ 
+1. I write Julia code that runs as fast as C++ or FORTRAN. Putting the compile time aside and assuming comparable algorithm implementations across languages. If you are hiring for a postdoc, or a data-intensive or operations-research role where Julia's ecosystem fits, that is directly relevant.
+2. My programming background includes many formal computer science courses. I also work fluently with AI-assisted development, including Claude, as part of my research and coding workflow. It has measurably sped up my iteration cycle.
+3. I completed a nine-month internship with a startup, working with raster files and geospatial plugins for PostgreSQL databases.
+4. I am a PhD student in pure mathematics and I am specialized in mathematical optimization. It is a demanding path that requires sustained daily focus, persistance, time management, diverse communications, global experiences, and it is the work I currently doing.
 # FAQ
-
-## Where was the math reposition, the biggest one?
-
-The repos is now private because it contains my future publications in draft. 
-Part of the notebook are general knowledge and it doesn't contain new contribution to the literature.
-To see that part of the notebook, visit my [published Obsidian Notebook](https://publish.obsidian.md/alto/README). For all the references I use in my research, visit my [Public Zotero Library](https://www.zotero.org/alto_legato/library).
-
-## What Mathematics do I learn? 
-
-Topics in Mathematical Optimizations, covering Non-smooth Analysis, Convex Analysis, Operator Theories, Duality and Algorithms, and many more. Following prominent researchers: 
-1. [Heinz Bauschke](https://cmps-people.ok.ubc.ca/bauschke/),
-2. [Ralph Tyrrell Rockafellar](https://fr.wikipedia.org/wiki/Ralph_Tyrrell_Rockafellar), 
-3. [Amir Beck](https://english.tau.ac.il/profile/becka), 
-4. [Yurri Nesterov](https://fr.wikipedia.org/wiki/Yurii_Nesterov). 
-
-## Most Recent Qualifications? 
-
-I did [University of Washington applied mathematics program](https://amath.washington.edu/master-science-applied-mathematics) for my Master Degree (2020-2022), Professor [Anne Greenbaum](https://fr.wikipedia.org/wiki/Anne_Greenbaum) was my advisor. See my thesis [here](https://digital.lib.washington.edu/researchworks/items/acba505e-7edb-4af7-a4d5-9bee67a9343a). 
+ 
+## What happened to my main math repository?
+ 
+It is private for now, since it holds drafts of work I have not published yet. The general-knowledge portions that are not original contributions are available in my [published Obsidian notebook](https://publish.obsidian.md/alto/README). References I use in my research are in my [public Zotero library](https://www.zotero.org/alto_legato/library).
+ 
+## What mathematics do I work on?
+ 
+Topics in mathematical optimization: non-smooth analysis, convex analysis, operator theory, duality, and algorithms. My work follows in the tradition of:
+ 
+1. [Heinz Bauschke](https://cmps-people.ok.ubc.ca/bauschke/)
+2. [Ralph Tyrrell Rockafellar](https://fr.wikipedia.org/wiki/Ralph_Tyrrell_Rockafellar)
+3. [Amir Beck](https://english.tau.ac.il/profile/becka)
+4. [Yurii Nesterov](https://fr.wikipedia.org/wiki/Yurii_Nesterov)
+## What are my most recent qualifications?
+ 
+I completed my Master's at the [University of Washington Applied Mathematics program](https://amath.washington.edu/master-science-applied-mathematics) (2020-2022), advised by Professor [Anne Greenbaum](https://fr.wikipedia.org/wiki/Anne_Greenbaum). My thesis is [here](https://digital.lib.washington.edu/researchworks/items/acba505e-7edb-4af7-a4d5-9bee67a9343a).
+ 
